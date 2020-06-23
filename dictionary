@@ -1,0 +1,83 @@
+<p></P> paragraph tag
+<em></em> emphasize tag
+<h1>-----big heading
+<h6>----small heading
+<hr>---------horizontal rule
+
+
+---------------------------------------
+Html Lists!
+1. unordered list
+<ul></ul>---is a bullet point list
+
+syntax
+<ul>
+<li>sgsgsg</li>----is a single list
+</ul>
+
+2. Ordered lists
+<ol></ol>-------is a number point list
+
+syntax
+<ol>
+<li>sgsgsg</li>----is a single list
+</ol>
+
+-------------------------
+
+
+
+
+Html Image Element
+<img src="image name or you can paste the url of the image or the full path of the image" alt="text about what is image is about" height="integer no in pixels">
+note= if you dont have an url of your image go to Photobucket.com and upload an image there and paste the url in the code
+---------------------------------------------------------------
+
+
+
+Linking Html Element
+Anchor tag
+<a href="url of the page or the path of the page to be linked"> text that will appear as a link</a>
+<a download href="link of the file to be downloaded">Download file</a>
+
+note: download attribute downloads the file without opening it
+-----------------------------------------------------------------------------------
+
+
+Html table
+<table>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+  and
+
+  <table>
+    <thead>
+      <tr>
+        <th>gives bold heading</th>
+      </tr>
+    </thead>
+  </table>
+
+----------------------------
+
+
+
+
+Form HTML Element
+
+syntax:
+
+<form class="" action="index.html" method="post">
+<label></label>
+<input type="text">
+<input type="submit">
+<input type="password">
+<input type="file">
+<input type="date">
+<input type="email">
+</form>
